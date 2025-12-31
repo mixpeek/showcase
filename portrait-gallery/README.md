@@ -1,4 +1,4 @@
-# National Portrait Gallery Search
+# National Gallery Search
 
 Build a semantic image search engine for portrait photography using the National Gallery of Art's open-access collection.
 
