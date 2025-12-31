@@ -8,17 +8,9 @@ Mixpeek is a multimodal AI platform that lets you build semantic search experien
 
 ## Examples
 
-### 🎨 [National Portrait Gallery](./portrait-gallery)
-
-Build a semantic image search engine using the National Gallery of Art's open-access portrait collection.
-
-- **Data Source:** ~15,000 portrait images from the NGA
-- **Features:** Natural language search, metadata filtering, visual similarity
-- **Try it live:** [https://mxp.co/r/npg](https://mxp.co/r/npg)
-
-[View Example →](./portrait-gallery)
-
----
+| Example | Description | Data Source | Features | Live Demo |
+|---------|-------------|-------------|----------|-----------|
+| 🎨 [**National Portrait Gallery**](./portrait-gallery) | Semantic image search engine for portrait photography using the National Gallery of Art's open-access collection | ~15,000 portrait images from NGA | Natural language search, metadata filtering, visual similarity | [Try it live →](https://mxp.co/r/npg) |
 
 ## Getting Started
 
