@@ -10,6 +10,8 @@
 *.mov
 *.avi
 *.pdf
+*.webm
+!portrait-gallery/assets/*.webm
 
 # Exclude all other directories (only portrait-gallery is public)
 /agency/
