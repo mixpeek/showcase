@@ -1,0 +1,93 @@
+# Large data files - do not commit
+*/data/images/
+*/data/cache/
+**/data/images/
+**/data/cache/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.mov
+*.avi
+*.pdf
+
+# Exclude all other directories (only portrait-gallery is public)
+/agency/
+/api/
+/automation/
+/build/
+/configs/
+/data/
+/docs/
+/engine/
+/epstein/
+/ethan.dev/
+/ethan.dev-minimal/
+/examples/
+/inactivate/
+/inactive/
+/logs/
+/meports-home/
+/mixpeek/
+/mixpeek_api_client/
+/mixpeek_mcp/
+/mixpeek_n8n/
+/multimodal-feature-extractor/
+/netflix-open-content/
+/node_modules/
+/observability/
+/public/
+/research/
+/sandbox/
+/scripts/
+/shared/
+/src/
+/templates/
+/tests/
+/vanlifecoder/
+
+# Project files
+*.lock
+package-lock.json
+yarn.lock
+poetry.lock
+pyproject.toml
+package.json
+*.toml
+*.json
+!portrait-gallery/**/*.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Misc
+secrets.txt
+*.sh
+!portrait-gallery/**/*.sh
