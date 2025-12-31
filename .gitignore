@@ -12,6 +12,7 @@
 *.pdf
 *.webm
 !portrait-gallery/assets/*.webm
+!portrait-gallery/assets/*.gif
 
 # Exclude all other directories (only portrait-gallery is public)
 /agency/
