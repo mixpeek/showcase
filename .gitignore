@@ -17,6 +17,7 @@
 /automation/
 /build/
 /configs/
+/cs50-curriculum/
 /data/
 /docs/
 /engine/
@@ -24,17 +25,23 @@
 /ethan.dev/
 /ethan.dev-minimal/
 /examples/
+/fbi-anti-war-movement/
+/ia-movie-trailers/
 /inactivate/
 /inactive/
 /logs/
 /meports-home/
+/met-museum/
 /mixpeek/
 /mixpeek_api_client/
 /mixpeek_mcp/
 /mixpeek_n8n/
+/movie-trailers/
 /multimodal-feature-extractor/
 /netflix-open-content/
+/noaa-nasa-earth/
 /node_modules/
+/nypl-photo-archive/
 /observability/
 /public/
 /research/
@@ -44,6 +51,7 @@
 /src/
 /templates/
 /tests/
+/uspto-patents/
 /vanlifecoder/
 
 # Project files
@@ -91,3 +99,8 @@ build/
 secrets.txt
 *.sh
 !portrait-gallery/**/*.sh
+
+# Root level scripts and test files
+/create_batch_all_objects.py
+/test_cursor_fix.py
+/test_cursor_pagination.py
