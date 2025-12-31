@@ -2,6 +2,8 @@
 
 Build a semantic image search engine for portrait photography using the National Gallery of Art's open-access collection.
 
+<video src="https://d8ts56gtwtyh1.cloudfront.net/blog/npg-animation.webm" autoplay loop muted playsinline width="100%"></video>
+
 **🔍 Try the live demo: [https://mxp.co/r/npg](https://mxp.co/r/npg)**
 
 ## Overview
