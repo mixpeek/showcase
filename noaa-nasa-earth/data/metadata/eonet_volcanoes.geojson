@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_16203",
+        "title": "Ambae Volcano, Vanuatu",
+        "description": null,
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_16203/geojson",
+        "closed": null,
+        "date": "2025-12-03T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=257030"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.835,
+          -15.389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_16202",
+        "title": "Puracé Volcano, Colombia",
+        "description": null,
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_16202/geojson",
+        "closed": null,
+        "date": "2025-12-02T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=351060"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3948,
+          2.3095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_16204",
+        "title": "Manam Volcano, Papua New Guinea",
+        "description": null,
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_16204/geojson",
+        "closed": null,
+        "date": "2025-11-30T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=251020"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.037,
+          -4.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_16200",
+        "title": "Barren Island Volcano, India",
+        "description": null,
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_16200/geojson",
+        "closed": null,
+        "date": "2025-11-29T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=260010"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.858,
+          12.278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_16201",
+        "title": "Hayli Gubbi Volcano, Ethiopia",
+        "description": null,
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_16201/geojson",
+        "closed": null,
+        "date": "2025-11-23T12:23:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=221091"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7161,
+          13.5111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_16205",
+        "title": "Planchón-Peteroa Volcano, Chile",
+        "description": null,
+        "link": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_16205/geojson",
+        "closed": null,
+        "date": "2025-11-13T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=357040"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.568,
+          -35.223
+        ]
+      }
+    }
+  ]
+}

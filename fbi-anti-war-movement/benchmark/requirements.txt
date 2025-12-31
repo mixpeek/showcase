@@ -1,0 +1,31 @@
+# Core
+openai>=1.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# PDF processing
+pymupdf>=1.23.0  # fitz
+pdf2image>=1.16.0
+Pillow>=10.0.0
+
+# OCR
+pytesseract>=0.3.10
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+
+# Layout detection
+layoutparser>=0.3.4
+detectron2  # for layout models
+
+# Embeddings
+sentence-transformers>=2.2.0
+transformers>=4.35.0
+
+# Vector store
+chromadb>=0.4.0
+faiss-cpu>=1.7.4
+
+# Utilities
+tqdm>=4.66.0
+pandas>=2.0.0
+scikit-learn>=1.3.0

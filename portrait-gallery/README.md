@@ -16,7 +16,7 @@ This example demonstrates how to:
 
 Images are sourced from the [National Gallery of Art Open Data Program](https://github.com/NationalGalleryOfArt/opendata):
 - **License**: CC0 (Public Domain)
-- **Total Images**: ~60,000 open-access images
+- **Total Images**: ~120,000 open-access images
 - **Portrait Subset**: ~15,000+ portrait-specific images
 
 ## Prerequisites
@@ -39,7 +39,7 @@ export MIXPEEK_NAMESPACE="your_namespace_here"
 
 The `download_nga.py` script fetches images from NGA's IIIF Image API.
 
-### Download All Open Access Images (~60k)
+### Download All Open Access Images (~120k)
 
 ```bash
 # Download all images at 1024px width
