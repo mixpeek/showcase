@@ -11,6 +11,7 @@ Mixpeek is a multimodal AI platform that lets you build semantic search experien
 | Example | Description | Data Source | Features | Live Demo |
 |---------|-------------|-------------|----------|-----------|
 | 🎨 [**National Portrait Gallery**](./gallery) | Semantic image search engine for portrait photography using the National Gallery of Art's open-access collection | ~120,000 open-access images from NGA | Natural language search, metadata filtering, visual similarity | [Try it live →](https://mxp.co/r/npg) |
+| 📚 [**CS50 Learning**](./learning) | Multimodal search engine for educational content using Harvard's CS50 course materials | 12+ lectures with videos, slides, and code from Internet Archive | Cross-modal search, video segment search, code search, lecture discovery | Coming soon |
 
 ## Getting Started
 

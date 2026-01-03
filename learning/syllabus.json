@@ -1,0 +1,422 @@
+{
+  "course": {
+    "title": "CS50: Introduction to Computer Science",
+    "year": 2017,
+    "institution": "Harvard University",
+    "source": "Internet Archive",
+    "source_url": "https://archive.org/details/academictorrents_52da574b6412862e199abeaea63e51bf8cea2140"
+  },
+  "lectures": [
+    {
+      "lecture_number": 1,
+      "lecture_id": "01",
+      "title": "Lecture 0: Scratch",
+      "topics": [
+        "Introduction to Computer Science",
+        "Computational Thinking",
+        "Scratch Programming",
+        "Visual Programming",
+        "Problem Solving"
+      ],
+      "content": {
+        "videos": 1,
+        "slides": 1,
+        "code": 0
+      }
+    },
+    {
+      "lecture_number": 4,
+      "lecture_id": "04",
+      "title": "Lecture 1: C",
+      "topics": [
+        "C Programming Basics",
+        "Data Types",
+        "Variables",
+        "Operators",
+        "Conditional Statements",
+        "Loops",
+        "Command Line",
+        "IDE"
+      ],
+      "content": {
+        "videos": 13,
+        "slides": 1,
+        "code": 1
+      },
+      "modules": [
+        "Command Line",
+        "IDE",
+        "Data Types",
+        "Operators",
+        "Conditional Statements",
+        "Loops"
+      ]
+    },
+    {
+      "lecture_number": 8,
+      "lecture_id": "08",
+      "title": "Lecture 2: C, continued",
+      "topics": [
+        "Arrays",
+        "Command Line Arguments",
+        "Debugging",
+        "Functions",
+        "Variables and Scope",
+        "Compiling",
+        "Cryptography"
+      ],
+      "content": {
+        "videos": 12,
+        "slides": 1,
+        "code": 1
+      },
+      "modules": [
+        "Arrays",
+        "Command Line Arguments",
+        "Debugging",
+        "Functions",
+        "Variables and Scope",
+        "Compiling",
+        "Cryptography"
+      ]
+    },
+    {
+      "lecture_number": 12,
+      "lecture_id": "12",
+      "title": "Lecture 3: Algorithms",
+      "topics": [
+        "Linear Search",
+        "Binary Search",
+        "Bubble Sort",
+        "Selection Sort",
+        "Insertion Sort",
+        "Merge Sort",
+        "Computational Complexity",
+        "Big O Notation",
+        "Recursion"
+      ],
+      "content": {
+        "videos": 20,
+        "slides": 1,
+        "code": 1
+      },
+      "modules": [
+        "Linear Search",
+        "Binary Search",
+        "Bubble Sort",
+        "Selection Sort",
+        "Insertion Sort",
+        "Merge Sort",
+        "Recursion",
+        "Computational Complexity"
+      ]
+    },
+    {
+      "lecture_number": 16,
+      "lecture_id": "16",
+      "title": "Lecture 4: Memory",
+      "topics": [
+        "Pointers",
+        "Dynamic Memory Allocation",
+        "Call Stack",
+        "Heap",
+        "Buffer Overflow",
+        "File I/O",
+        "Images"
+      ],
+      "content": {
+        "videos": 10,
+        "slides": 1,
+        "code": 1
+      },
+      "modules": [
+        "Pointers",
+        "Dynamic Memory Allocation",
+        "Call Stack",
+        "Heap",
+        "Buffer Overflow",
+        "File I/O"
+      ]
+    },
+    {
+      "lecture_number": 20,
+      "lecture_id": "20",
+      "title": "Lecture 5: Data Structures",
+      "topics": [
+        "Structs",
+        "Linked Lists",
+        "Hash Tables",
+        "Tries",
+        "Stacks",
+        "Queues",
+        "Trees"
+      ],
+      "content": {
+        "videos": 16,
+        "slides": 1,
+        "code": 1
+      },
+      "modules": [
+        "Structs",
+        "Linked Lists",
+        "Hash Tables",
+        "Tries",
+        "Stacks",
+        "Queues"
+      ]
+    },
+    {
+      "lecture_number": 24,
+      "lecture_id": "24",
+      "title": "Lecture 6: HTTP",
+      "topics": [
+        "IP Addresses",
+        "DNS",
+        "HTTP",
+        "HTML",
+        "CSS",
+        "Web Development",
+        "TCP/IP"
+      ],
+      "content": {
+        "videos": 11,
+        "slides": 1,
+        "code": 0
+      },
+      "modules": [
+        "IP",
+        "DNS",
+        "HTTP",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "lecture_number": 27,
+      "lecture_id": "27",
+      "title": "Lecture 7: Dynamic Programming",
+      "topics": [
+        "MVC (Model-View-Controller)",
+        "Flask",
+        "Dynamic Programming",
+        "Web Applications"
+      ],
+      "content": {
+        "videos": 1,
+        "slides": 1,
+        "code": 0
+      }
+    },
+    {
+      "lecture_number": 29,
+      "lecture_id": "29",
+      "title": "Lecture 8: Python",
+      "topics": [
+        "Python Basics",
+        "Syntax Comparison with C",
+        "Object-Oriented Programming",
+        "Web Scraping"
+      ],
+      "content": {
+        "videos": 1,
+        "slides": 1,
+        "code": 0
+      }
+    },
+    {
+      "lecture_number": 31,
+      "lecture_id": "31",
+      "title": "Lecture 9: SQL",
+      "topics": [
+        "Databases",
+        "SQL",
+        "SQLite",
+        "Relational Databases",
+        "CRUD Operations",
+        "Joins",
+        "Indexes"
+      ],
+      "content": {
+        "videos": 5,
+        "slides": 1,
+        "code": 1
+      },
+      "modules": [
+        "SQL Basics",
+        "Database Design",
+        "Queries",
+        "Relationships"
+      ]
+    },
+    {
+      "lecture_number": 35,
+      "lecture_id": "35",
+      "title": "Lecture 10: JavaScript",
+      "topics": [
+        "JavaScript Basics",
+        "DOM Manipulation",
+        "Event Handling",
+        "AJAX",
+        "Client-Side Programming"
+      ],
+      "content": {
+        "videos": 7,
+        "slides": 1,
+        "code": 1
+      },
+      "modules": [
+        "JavaScript Syntax",
+        "DOM",
+        "Events",
+        "AJAX"
+      ]
+    },
+    {
+      "lecture_number": 39,
+      "lecture_id": "39",
+      "title": "Lecture 11: The End",
+      "topics": [
+        "Security",
+        "Privacy",
+        "Scalability",
+        "Course Recap",
+        "Final Project"
+      ],
+      "content": {
+        "videos": 5,
+        "slides": 1,
+        "code": 1
+      }
+    },
+    {
+      "lecture_number": 43,
+      "lecture_id": "43",
+      "title": "Lecture 12: Special Topics",
+      "topics": [
+        "AR/VR",
+        "3D Cultural Heritage",
+        "Collaborative Coding",
+        "Computer Vision",
+        "Google Apps",
+        "Java",
+        "Microsoft MakeCode",
+        "Advanced Topics"
+      ],
+      "content": {
+        "videos": 12,
+        "slides": 7,
+        "code": 1
+      },
+      "special_topics": [
+        {
+          "title": "3D AR Cultural Heritage",
+          "description": "Augmented reality applications for cultural preservation"
+        },
+        {
+          "title": "Collaborative Coding",
+          "description": "Tools and practices for team programming"
+        },
+        {
+          "title": "Computer Vision",
+          "description": "Image processing and recognition techniques"
+        },
+        {
+          "title": "Google Apps",
+          "description": "Development with Google's application suite"
+        },
+        {
+          "title": "Java",
+          "description": "Introduction to Java programming language"
+        },
+        {
+          "title": "Microsoft MakeCode MicroBit",
+          "description": "Physical computing with MicroBit"
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "total_lectures": 13,
+    "total_videos": 114,
+    "total_slides": 19,
+    "total_code_archives": 9,
+    "total_size_gb": 9.1,
+    "main_topics": [
+      "Programming Fundamentals",
+      "C Programming",
+      "Algorithms & Data Structures",
+      "Memory Management",
+      "Web Development",
+      "Python",
+      "SQL & Databases",
+      "JavaScript"
+    ]
+  },
+  "learning_path": [
+    {
+      "week": 0,
+      "lecture": "Lecture 0: Scratch",
+      "focus": "Introduction to computational thinking"
+    },
+    {
+      "week": 1,
+      "lecture": "Lecture 1: C",
+      "focus": "Programming basics with C"
+    },
+    {
+      "week": 2,
+      "lecture": "Lecture 2: C, continued",
+      "focus": "Arrays, functions, and debugging"
+    },
+    {
+      "week": 3,
+      "lecture": "Lecture 3: Algorithms",
+      "focus": "Searching and sorting algorithms"
+    },
+    {
+      "week": 4,
+      "lecture": "Lecture 4: Memory",
+      "focus": "Pointers and memory management"
+    },
+    {
+      "week": 5,
+      "lecture": "Lecture 5: Data Structures",
+      "focus": "Linked lists, hash tables, and trees"
+    },
+    {
+      "week": 6,
+      "lecture": "Lecture 6: HTTP",
+      "focus": "Web protocols and HTML/CSS"
+    },
+    {
+      "week": 7,
+      "lecture": "Lecture 7: Dynamic Programming",
+      "focus": "Web applications with Flask"
+    },
+    {
+      "week": 8,
+      "lecture": "Lecture 8: Python",
+      "focus": "Python programming language"
+    },
+    {
+      "week": 9,
+      "lecture": "Lecture 9: SQL",
+      "focus": "Databases and SQL"
+    },
+    {
+      "week": 10,
+      "lecture": "Lecture 10: JavaScript",
+      "focus": "Client-side web programming"
+    },
+    {
+      "week": 11,
+      "lecture": "Lecture 11: The End",
+      "focus": "Security, scalability, and wrap-up"
+    },
+    {
+      "week": 12,
+      "lecture": "Lecture 12: Special Topics",
+      "focus": "Advanced topics and guest lectures"
+    }
+  ]
+}

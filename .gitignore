@@ -67,6 +67,8 @@ package.json
 *.toml
 *.json
 !gallery/**/*.json
+!learning/*.json
+!learning/**/.gitkeep
 
 # macOS
 .DS_Store

@@ -1,0 +1,14 @@
+# Downloaded course materials (large files)
+data/videos/*
+data/slides/*
+data/code/*
+data/metadata/*
+data/cache/*
+data/.DS_Store
+
+# Keep the directory structure
+!data/videos/.gitkeep
+!data/slides/.gitkeep
+!data/code/.gitkeep
+!data/metadata/.gitkeep
+!data/cache/.gitkeep
