@@ -1,0 +1,107 @@
+[
+  {
+    "id": "brand_nike",
+    "name": "Nike",
+    "category": "tracked",
+    "description": "Athletic footwear and apparel",
+    "keywords": "Nike swoosh logo athletic sportswear shoes sneakers just do it running basketball"
+  },
+  {
+    "id": "brand_adidas",
+    "name": "Adidas",
+    "category": "competitor",
+    "description": "Sports equipment and apparel",
+    "keywords": "Adidas three stripes logo athletic sportswear shoes originals running football"
+  },
+  {
+    "id": "brand_apple",
+    "name": "Apple",
+    "category": "tracked",
+    "description": "Consumer electronics and software",
+    "keywords": "Apple logo iPhone iPad Mac MacBook technology electronics smartphone computer"
+  },
+  {
+    "id": "brand_samsung",
+    "name": "Samsung",
+    "category": "competitor",
+    "description": "Consumer electronics",
+    "keywords": "Samsung logo Galaxy smartphone tablet television electronics Android phone"
+  },
+  {
+    "id": "brand_coca_cola",
+    "name": "Coca-Cola",
+    "category": "competitor",
+    "description": "Beverage company",
+    "keywords": "Coca-Cola Coke red logo beverage soda drink refreshment carbonated"
+  },
+  {
+    "id": "brand_pepsi",
+    "name": "Pepsi",
+    "category": "competitor",
+    "description": "Beverage company",
+    "keywords": "Pepsi blue logo beverage soda drink cola refreshment carbonated"
+  },
+  {
+    "id": "brand_mcdonalds",
+    "name": "McDonald's",
+    "category": "tracked",
+    "description": "Fast food restaurant chain",
+    "keywords": "McDonald's golden arches logo fast food burger fries restaurant McD"
+  },
+  {
+    "id": "brand_starbucks",
+    "name": "Starbucks",
+    "category": "tracked",
+    "description": "Coffeehouse chain",
+    "keywords": "Starbucks green mermaid logo coffee cafe latte espresso frappuccino"
+  },
+  {
+    "id": "brand_google",
+    "name": "Google",
+    "category": "partner",
+    "description": "Technology company",
+    "keywords": "Google logo search engine Chrome Android YouTube technology internet"
+  },
+  {
+    "id": "brand_amazon",
+    "name": "Amazon",
+    "category": "competitor",
+    "description": "E-commerce and technology",
+    "keywords": "Amazon smile arrow logo ecommerce shopping Prime AWS delivery"
+  },
+  {
+    "id": "brand_microsoft",
+    "name": "Microsoft",
+    "category": "competitor",
+    "description": "Technology company",
+    "keywords": "Microsoft Windows logo Office Xbox Azure technology software computer"
+  },
+  {
+    "id": "brand_tesla",
+    "name": "Tesla",
+    "category": "tracked",
+    "description": "Electric vehicle manufacturer",
+    "keywords": "Tesla logo electric car vehicle EV Elon Musk Model S X 3 Y automotive"
+  },
+  {
+    "id": "brand_disney",
+    "name": "Disney",
+    "category": "partner",
+    "description": "Entertainment conglomerate",
+    "keywords": "Disney castle logo Mickey Mouse entertainment movies animation theme park"
+  },
+  {
+    "id": "brand_netflix",
+    "name": "Netflix",
+    "category": "tracked",
+    "description": "Streaming service",
+    "keywords": "Netflix red N logo streaming movies TV shows entertainment subscription"
+  },
+  {
+    "id": "brand_subaru",
+    "name": "Subaru",
+    "category": "tracked",
+    "description": "Automotive manufacturer",
+    "keywords": "Subaru stars logo Outback Forester Impreza WRX automotive car vehicle AWD"
+  }
+]

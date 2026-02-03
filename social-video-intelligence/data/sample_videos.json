@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "title": "Big Buck Bunny",
+    "description": "Animated short film about a rabbit and forest creatures. Features nature scenes, comedy, and character interactions.",
+    "platform": "youtube",
+    "region": "US",
+    "channel": "Blender Foundation",
+    "tags": ["animation", "short film", "comedy", "nature", "animals"],
+    "view_count": 1000000,
+    "engagement_score": 0.85
+  },
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "title": "Elephants Dream",
+    "description": "Surrealist animated short film exploring abstract concepts and mechanical environments.",
+    "platform": "youtube",
+    "region": "EU",
+    "channel": "Blender Foundation",
+    "tags": ["animation", "surreal", "art", "abstract", "experimental"],
+    "view_count": 500000,
+    "engagement_score": 0.72
+  },
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "title": "For Bigger Blazes",
+    "description": "High-action movie trailer featuring explosions, stunts, and dramatic sequences.",
+    "platform": "youtube",
+    "region": "US",
+    "channel": "Google",
+    "tags": ["trailer", "action", "movie", "explosions", "drama"],
+    "view_count": 2000000,
+    "engagement_score": 0.91
+  },
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "title": "For Bigger Escapes",
+    "description": "Adventure travel documentary style video showcasing exotic locations and experiences.",
+    "platform": "youtube",
+    "region": "APAC",
+    "channel": "Google",
+    "tags": ["travel", "adventure", "documentary", "nature", "exploration"],
+    "view_count": 750000,
+    "engagement_score": 0.78
+  },
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "title": "For Bigger Fun",
+    "description": "Entertainment and lifestyle content featuring fun activities and social interactions.",
+    "platform": "tiktok",
+    "region": "US",
+    "channel": "Google",
+    "tags": ["entertainment", "lifestyle", "fun", "social", "activities"],
+    "view_count": 3000000,
+    "engagement_score": 0.95
+  },
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "title": "For Bigger Joyrides",
+    "description": "Automotive content featuring cars, driving experiences, and vehicle showcases.",
+    "platform": "youtube",
+    "region": "EU",
+    "channel": "Google",
+    "tags": ["automotive", "cars", "driving", "vehicles", "sports"],
+    "view_count": 1500000,
+    "engagement_score": 0.88
+  },
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "title": "For Bigger Meltdowns",
+    "description": "Dramatic content with intense emotional moments and conflict resolution themes.",
+    "platform": "youtube",
+    "region": "US",
+    "channel": "Google",
+    "tags": ["drama", "emotional", "intense", "conflict", "resolution"],
+    "view_count": 800000,
+    "engagement_score": 0.65
+  },
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "title": "Sintel",
+    "description": "Fantasy animated short film about a young woman searching for her pet dragon.",
+    "platform": "youtube",
+    "region": "EU",
+    "channel": "Blender Foundation",
+    "tags": ["animation", "fantasy", "drama", "adventure", "dragon"],
+    "view_count": 2500000,
+    "engagement_score": 0.92
+  },
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+    "title": "Subaru Outback On Street And Dirt",
+    "description": "Automotive review and test drive of Subaru Outback on various terrains.",
+    "platform": "youtube",
+    "region": "US",
+    "channel": "Automotive Review",
+    "tags": ["automotive", "review", "Subaru", "test drive", "off-road"],
+    "view_count": 400000,
+    "engagement_score": 0.75
+  },
+  {
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "title": "Tears of Steel",
+    "description": "Sci-fi short film combining live action with CGI, featuring robots and futuristic themes.",
+    "platform": "youtube",
+    "region": "EU",
+    "channel": "Blender Foundation",
+    "tags": ["sci-fi", "animation", "live action", "robots", "futuristic"],
+    "view_count": 1800000,
+    "engagement_score": 0.87
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sentiment_positive",
+    "label": "positive",
+    "description": "Content expressing happiness, satisfaction, or enthusiasm",
+    "keywords": "happy excited enthusiastic satisfied pleased joyful optimistic amazing wonderful great excellent fantastic awesome love beautiful brilliant perfect impressed delighted"
+  },
+  {
+    "id": "sentiment_neutral",
+    "label": "neutral",
+    "description": "Content that is informational, objective, or balanced",
+    "keywords": "informational factual objective balanced descriptive neutral standard normal typical average moderate reasonable fair impartial unbiased okay fine"
+  },
+  {
+    "id": "sentiment_negative",
+    "label": "negative",
+    "description": "Content expressing anger, frustration, or disappointment",
+    "keywords": "angry frustrated disappointed critical upset pessimistic terrible awful bad horrible hate disappointed annoyed irritated furious disgusted worst failure broken"
+  },
+  {
+    "id": "sentiment_mixed",
+    "label": "mixed",
+    "description": "Content containing both positive and negative elements",
+    "keywords": "mixed feelings both positive negative elements pros cons advantages disadvantages tradeoffs bittersweet complicated nuanced conflicted ambivalent"
+  }
+]
